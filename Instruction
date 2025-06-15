@@ -1,1 +1,4 @@
 Clone this repo.
+after give the permission with cmd is 'chmod +x autotool.py'
+
+after run python3 autotool py
